@@ -6,5 +6,5 @@ Neste momento realizei dois dos três desafios, mas estarei realizando o último
 ### Desafios:
 - [X] [Criptografia do navio](https://github.com/jmsmarcelo/intelitrader-challenges/blob/main/mainShipEncryption.cpp)
 - [X] [Menor distancia arrays](https://github.com/jmsmarcelo/intelitrader-challenges/blob/main/mainShortestDistanceArray.cpp)
-- [ ] Livro de ofertas
+- [X] [Livro de ofertas](https://github.com/jmsmarcelo/intelitrader-challenges/blob/main/mainOfferBook.cpp)
 
